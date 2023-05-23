@@ -21,7 +21,7 @@
 &#xa0;
 ## 💻 Projeto
 Nesse projeto eu aprendir a utilizar React do zero em desenvolvimento de aplicações web reativas, aprendir a criar um aplicativo web com funcionalidades parecidas com redes sociais como instagram.
-O foco do curso foi no entendimento do React, com isso tudo foi criado do zero, sem dependência de pacotes externnos.
+O foco do curso foi no entendimento do React, com isso tudo foi criado do zero, sem dependência de pacotes externos.
 
 * [Hooks]
 * [React Router]
